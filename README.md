@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="thumbnail19.png" width="800">
+</p>
+
 # 🚗 AI Drowsiness Detection System using Computer Vision 😴
 
 A real-time **AI-powered drowsiness detection system** that monitors eye movements using a webcam and alerts the user when signs of fatigue are detected.
@@ -118,10 +122,16 @@ This project is licensed under the **MIT License**.
 
 ---
 
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/senthamil45)
+- 🌍 [Portfolio](https://senthamill.vercel.app/)
+- 💻 [GitHub](https://github.com/selvan-01/drowsiness-detection-system.git)
+
 ## 👨‍💻 Author
 
 **S. Senthamil Selvan**
-AI & Tech Enthusiast | ML ENGINEERt | Developer
+AI & Tech Enthusiast | ML ENGINEER | Developer
 
 ---
 
